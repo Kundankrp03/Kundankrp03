@@ -29,7 +29,7 @@
 ⚡ interests   : Frontend • Backend • REST APIs • Open Source
 
 🤝 open_to     : Internships • Open Source Collaboration
-🔗 linkedin    : linkedin.com/in/kundan-kumar-81b609321
+🔗 linkedin    : linkedin.com/in/kundan-kumar-p
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -118,7 +118,7 @@
   <a href="https://github.com/Kundankrp03">
     <img src="https://img.shields.io/badge/GitHub-Kundankrp03-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/kundan-kumar-81b609321">
+  <a href="https://www.linkedin.com/in/kundan-kumar-p">
     <img src="https://img.shields.io/badge/LinkedIn-Kundan%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
