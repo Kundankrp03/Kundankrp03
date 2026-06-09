@@ -73,9 +73,9 @@
 | Area | Status | Progress |
 |------|--------|----------|
 | 🧠 DSA — C++ (Arrays → Trees) | Building | `████░░░░░░` 40% |
-| 🌐 MERN Stack | Learning | `███░░░░░░░` 30% |
-| ⚛️ React.js | Exploring | `██░░░░░░░░` 20% |
-| 🐍 Python & ML Basics | Starting | `██░░░░░░░░` 20% |
+| 🌐 MERN Stack | Learning | `███████░░░` 70% |
+| ⚛️ React.js | Exploring | `████░░░░░░` 40% |
+| 🐍 Python & ML Basics | Starting | `█░░░░░░░░░` 10% |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
