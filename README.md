@@ -1,9 +1,9 @@
 <!--===================== HEADER BANNER =====================-->
 [![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Kundan%20Kumar&fontSize=60&fontColor=38BDF8&fontAlignY=40&desc=Web%20Dev%20%7C%20MERN%20Stack%20%7C%20C%2B%2B%20%7C%20DSA%20%40%20NIAMT%20Ranchi&descSize=18&descAlignY=62&descColor=94A3B8&animation=twinkling&stroke=38BDF8&strokeWidth=2)](https://github.com/Kundankrp03)
 
-<!--===================== TYPING SVG — FIXED =====================-->
+<!--===================== TYPING SVG =====================-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Kundan+Kumar+%F0%9F%91%8B;Web+Developer+%F0%9F%9A%80;MERN+Stack+Explorer+%F0%9F%94%A5;C%2B%2B+%7C+DSA+Learner+%F0%9F%A7%A0;Python+%7C+ML+Enthusiast+%F0%9F%A4%96;Open+to+Internships+%26+Open+Source+%F0%9F%A4%9D;Keep+Learning.+Keep+Building.+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Kundan+Kumar+%F0%9F%91%8B;Web+Developer+%F0%9F%9A%80;MERN+Stack+Explorer+%F0%9F%94%A5;C%2B%2B+%7C+DSA+Learner+%F0%9F%A7%A0;Future+AI+Engineer+%F0%9F%A4%96;Open+to+Internships+%26+Open+Source+%F0%9F%A4%9D;Keep+Learning.+Keep+Building.+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <!--===================== BADGES ROW =====================-->
@@ -41,7 +41,7 @@
 
 💡 fun_fact     : I debug with console.log and I'm proud of it!
 
-🎯 goal         : Become a Full Stack Developer
+🎯 goal         : Become an AI Engineer
 🤝 open_to      : Internships • Open Source Collaboration
 📧 email        : kundankrp03@gmail.com
 🔗 linkedin     : linkedin.com/in/kundan-kumar-p
@@ -91,23 +91,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--===================== CURRENT FOCUS =====================-->
+<!--===================== CURRENT FOCUS — UPDATED % =====================-->
 ## 🎯 &nbsp;Current Focus
 
 | Area | Status | Progress |
 |------|--------|----------|
-| 🧠 DSA — C++ (Arrays → Trees) | `Building` | ![40%](https://img.shields.io/badge/40%25-████░░░░░░-38BDF8?style=flat-square) |
-| 🌐 MERN Stack | `Learning` | ![30%](https://img.shields.io/badge/30%25-███░░░░░░░-22C55E?style=flat-square) |
-| ⚛️ React.js | `Exploring` | ![20%](https://img.shields.io/badge/20%25-██░░░░░░░░-7C3AED?style=flat-square) |
-| 🐍 Python & ML Basics | `Starting` | ![15%](https://img.shields.io/badge/15%25-█░░░░░░░░░-F59E0B?style=flat-square) |
+| 🧠 DSA — C++ (Arrays → Trees) | `Building` | ![50%](https://img.shields.io/badge/50%25-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-38BDF8?style=flat-square) |
+| 🌐 MERN Stack | `Learning` | ![60%](https://img.shields.io/badge/60%25-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-22C55E?style=flat-square) |
+| ⚛️ React.js | `Exploring` | ![60%](https://img.shields.io/badge/60%25-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-7C3AED?style=flat-square) |
+| 🐍 Python & ML Basics | `Starting` | ![10%](https://img.shields.io/badge/10%25-%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-F59E0B?style=flat-square) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--===================== GITHUB STATS =====================-->
+<!--===================== GITHUB STATS — FIXED (removed include_all_commits) =====================-->
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kundankrp03&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kundankrp03&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundankrp03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&langs_count=8" />
 </p>
 
@@ -117,11 +117,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--===================== TROPHIES — FIXED =====================-->
+<!--===================== TROPHIES — FULLY FIXED =====================-->
 ## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kundankrp03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kundankrp03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=-1" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
