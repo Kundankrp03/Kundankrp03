@@ -3,7 +3,7 @@
 
 <!--===================== TYPING SVG =====================-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Kundan+Kumar+%F0%9F%91%8B;Web+Developer+%F0%9F%9A%80;MERN+Stack+Explorer+%F0%9F%94%A5;C%2B%2B+%7C+DSA+Learner+%F0%9F%A7%A0;Future+AI+Engineer+%F0%9F%A4%96;Open+to+Internships+%26+Open+Source+%F0%9F%A4%9D;Keep+Learning.+Keep+Building.+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Kundan+Kumar+%F0%9F%91%8B;Web+Developer+%F0%9F%9A%80;MERN+Stack+Explorer+%F0%9F%94%A5;C%2B%2B+%7C+DSA+Learner+%F0%9F%A7%A0;Future+AI+Full+Stack+Developer+%F0%9F%A4%96;Open+to+Internships+%26+Open+Source+%F0%9F%A4%9D;Keep+Learning.+Keep+Building.+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <!--===================== BADGES ROW =====================-->
