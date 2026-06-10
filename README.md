@@ -16,16 +16,15 @@
     <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKundankrp03&style=for-the-badge&color=7C3AED&labelColor=0d1117" />
   </a>
   <img src="https://img.shields.io/badge/Open%20To-Internships-22C55E?style=for-the-badge&logo=circle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Ranchi%2C%20Jharkhand%20🇮🇳-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Ranchi%2C%20Jharkhand-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<!--===================== ANIMATED DIVIDER =====================-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--===================== ABOUT ME =====================-->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;About Me
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
 
 ```yaml
 👤 name         : Kundan Kumar
@@ -52,7 +51,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--===================== SKILLS SECTION =====================-->
+<!--===================== TECH STACK =====================-->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> &nbsp;Tech Stack
 
 <details open>
@@ -92,54 +91,37 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--===================== CURRENT FOCUS =====================-->
+<!--===================== CURRENT FOCUS — FIXED =====================-->
 ## 🎯 &nbsp;Current Focus
 
-<table>
-  <tr>
-    <td>🧠 DSA — C++ (Arrays → Trees)</td>
-    <td><img src="https://progress-bar.xyz/40/?title=Building&width=200&color=38BDF8" /></td>
-  </tr>
-  <tr>
-    <td>🌐 MERN Stack</td>
-    <td><img src="https://progress-bar.xyz/30/?title=Learning&width=200&color=22C55E" /></td>
-  </tr>
-  <tr>
-    <td>⚛️ React.js</td>
-    <td><img src="https://progress-bar.xyz/20/?title=Exploring&width=200&color=7C3AED" /></td>
-  </tr>
-  <tr>
-    <td>🐍 Python & ML Basics</td>
-    <td><img src="https://progress-bar.xyz/15/?title=Starting&width=200&color=F59E0B" /></td>
-  </tr>
-</table>
+| Area | Status | Progress |
+|------|--------|----------|
+| 🧠 DSA — C++ (Arrays → Trees) | `Building` | ![40%](https://img.shields.io/badge/40%25-████░░░░░░-38BDF8?style=flat-square) |
+| 🌐 MERN Stack | `Learning` | ![30%](https://img.shields.io/badge/30%25-███░░░░░░░-22C55E?style=flat-square) |
+| ⚛️ React.js | `Exploring` | ![20%](https://img.shields.io/badge/20%25-██░░░░░░░░-7C3AED?style=flat-square) |
+| 🐍 Python & ML Basics | `Starting` | ![15%](https://img.shields.io/badge/15%25-█░░░░░░░░░-F59E0B?style=flat-square) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--===================== GITHUB STATS =====================-->
+<!--===================== GITHUB STATS — FIXED =====================-->
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kundankrp03&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundankrp03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&langs_count=8" height="170"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kundankrp03&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundankrp03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kundankrp03&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8&sideLabels=38BDF8" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kundankrp03&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Kundankrp03&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--===================== TROPHIES =====================-->
+<!--===================== TROPHIES — FIXED =====================-->
 ## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kundankrp03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kundankrp03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -148,7 +130,7 @@
 ## 📈 &nbsp;Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kundankrp03&theme=tokyo-night&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true&area=true&area_color=38BDF8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kundankrp03&theme=tokyo-night&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true&area=true" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -166,14 +148,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--===================== SPOTIFY / MUSIC VIBE =====================-->
-## 🎵 &nbsp;Coding Vibe
+<!--===================== DEV JOKE =====================-->
+## 😂 &nbsp;Random Dev Joke
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ydp3f3dgj7bthbihxozphewp2i&count=3&unique=true" alt="Spotify Recently Played" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
 </p>
-
-> *"Every expert was once a beginner. Code hard, fail fast, learn faster."* 💡
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -184,14 +164,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--===================== RANDOM DEV JOKE =====================-->
-## 😂 &nbsp;Random Dev Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
-</p>
+> *"Every expert was once a beginner. Code hard, fail fast, learn faster."* 💡
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -216,13 +189,11 @@
   <i>Feel free to reach out — always happy to connect, collaborate, or just have a tech chat! 😊</i>
 </p>
 
-<!--===================== WAVE FOOTER =====================-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--===================== FOOTER =====================-->
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling&text=Thanks%20for%20visiting!&fontSize=24&fontColor=38BDF8&fontAlignY=65)](https://github.com/Kundankrp03)
 
 <p align="center">
   <b>⚡ Keep Learning. Keep Building. Keep Growing. 🚀</b>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=footer" />
 </p>
