@@ -41,7 +41,7 @@
 
 💡 fun_fact     : I debug with console.log and I'm proud of it!
 
-🎯 goal         : Become an AI Engineer
+🎯 goal         : Become an AI Full Stack Developer
 🤝 open_to      : Internships • Open Source Collaboration
 📧 email        : kundankrp03@gmail.com
 🔗 linkedin     : linkedin.com/in/kundan-kumar-p
