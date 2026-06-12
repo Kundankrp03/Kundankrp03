@@ -3,7 +3,7 @@
 
 <!--===================== TYPING SVG =====================-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Kundan+Kumar+%F0%9F%91%8B;Web+Developer+%F0%9F%9A%80;MERN+Stack+Explorer+%F0%9F%94%A5;C%2B%2B+%7C+DSA+Learner+%F0%9F%A7%A0;Future+AI+Full+Stack+Developer+%F0%9F%A4%96;Open+to+Internships+%26+Open+Source+%F0%9F%A4%9D;Keep+Learning.+Keep+Building.+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Kundan+Kumar+%F0%9F%91%8B;Web+Developer+%F0%9F%9A%80;MERN+Stack+Explorer+%F0%9F%94%A5;C%2B%2B+%7C+DSA+Learner+%F0%9F%A7%A0;Future+AI+Full+Stack+Engineer+%F0%9F%A4%96;Open+to+Internships+%26+Open+Source+%F0%9F%A4%9D;Keep+Learning.+Keep+Building.+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <!--===================== BADGES ROW =====================-->
@@ -41,7 +41,7 @@
 
 💡 fun_fact     : I debug with console.log and I'm proud of it!
 
-🎯 goal         : Become an AI Full Stack Developer
+🎯 goal         : Become an AI Full Stack Engineer
 🤝 open_to      : Internships • Open Source Collaboration
 📧 email        : kundankrp03@gmail.com
 🔗 linkedin     : linkedin.com/in/kundan-kumar-p
@@ -91,7 +91,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--===================== CURRENT FOCUS — UPDATED % =====================-->
+<!--===================== CURRENT FOCUS =====================-->
 ## 🎯 &nbsp;Current Focus
 
 | Area | Status | Progress |
@@ -103,7 +103,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--===================== GITHUB STATS — FIXED (removed include_all_commits) =====================-->
+<!--===================== GITHUB STATS =====================-->
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
@@ -117,11 +117,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--===================== TROPHIES — FULLY FIXED =====================-->
-## 🏆 &nbsp;GitHub Trophies
+<!--===================== TROPHIES — REPLACED WITH BADGES =====================-->
+## 🏆 &nbsp;GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kundankrp03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=-1" />
+
+  <!-- Commits -->
+  <img src="https://img.shields.io/badge/Total%20Commits-41-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- Stars -->
+  <img src="https://img.shields.io/badge/Stars%20Earned-1-FFD700?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- Repos -->
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKundankrp03&style=for-the-badge&color=7C3AED&labelColor=0d1117" />
+  <!-- Streak -->
+  <img src="https://img.shields.io/badge/Current%20Streak-3%20Days-FF6B6B?style=for-the-badge&logo=fire&logoColor=white" />
+  <!-- Since -->
+  <img src="https://img.shields.io/badge/GitHub%20Since-Nov%202024-22C55E?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kundankrp03&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=3" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
