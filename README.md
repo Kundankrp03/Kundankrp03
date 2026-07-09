@@ -44,7 +44,7 @@
 🎯 goal         : Become an AI Full Stack Engineer
 🤝 open_to      : Internships • Open Source Collaboration
 📧 email        : kundankrp03@gmail.com
-🔗 linkedin     : linkedin.com/in/kundan-kumar-p
+🔗 linkedin     : linkedin.com/in/kundankrp03
 ```
 
 <br clear="right"/>
