@@ -191,7 +191,7 @@
     <img src="https://img.shields.io/badge/GitHub-Kundankrp03-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/kundan-kumar-p" target="_blank">
+  <a href="www.linkedin.com/in/kundankrp03" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kundan%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
